@@ -1,21 +1,13 @@
-# Exercism
+## Elixir Exercism Solutions
 
-**TODO: Add description**
+This repository contains my completed coding challenges in Elixir from [Exercism](https://exercism.org/tracks/elixir/concepts). Exercism provides a platform for **practicing and improving** your programming skills through a series of well-crafted exercises.
 
-## Installation
+### Getting Started
 
-If [available in Hex](https://hex.pm/docs/publish), the package can be installed
-by adding `exercism` to your list of dependencies in `mix.exs`:
+To explore a specific challenge solution, simply navigate to the corresponding directory in this repository. You can browse the code, read explanations, and learn from the solutions.
 
-```elixir
-def deps do
-  [
-    {:exercism, "~> 0.1.0"}
-  ]
-end
-```
+### Contributing
 
-Documentation can be generated with [ExDoc](https://github.com/elixir-lang/ex_doc)
-and published on [HexDocs](https://hexdocs.pm). Once published, the docs can
-be found at <https://hexdocs.pm/exercism>.
+Feel free to contribute to this repository by sharing your own solutions or improvements to existing ones. Just fork the repository, make your changes, and submit a pull request.
 
+**Happy coding!**
